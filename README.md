@@ -9,7 +9,7 @@ Run the game by executing the main.py file:
 
 # python main.py
 
-Use the up arrow key to control the turtle try to complete the levels.
+Use the up arrow key to control the turtle and try to complete the levels.
 
 # Features
 
